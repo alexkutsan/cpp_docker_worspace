@@ -1,0 +1,23 @@
+#RM814::
+172.30.157.144 # gsavinetskaya-workstation.kiev.luxoft.com /Halyna Savynetska
+172.30.157.152 # tmyza.kiev.luxoft.com /Taras Myza
+172.30.157.148 # sniukalov-system-product-name.kiev.luxoft.com /Serhii Niukalov
+172.30.157.171 # pavel-system-product-name.kiev.luxoft.com /Pavlo Zhdanov
+172.30.157.155 # valerii.kiev.luxoft.com /Valerii Malkov
+172.30.157.130 # ymamykin.kiev.luxoft.com /Yaroslav Mamykin
+172.30.157.145 # ikovalenko.kiev.luxoft.com /Igor Kovalenko
+172.30.157.150 # mkorniichuk.kiev.luxoft.com /Mykola Korniichuk
+172.30.157.156 # igapchuk.kiev.luxoft.com /Igor Gapchuk
+172.30.157.143 # maksym-ked.kiev.luxoft.com /Maksym Ked
+172.30.157.158 # amakarinskii‐ws.kiev.luxoft.com /Aleksandr Makarinskii
+#RM815::
+172.30.157.175 # akutsan.kiev.luxoft.com /Aleksandr Kutsan
+172.30.157.154 # iryna.kiev.luxoft.com /Iryna Lytvynenko
+# Andrii Byzhynar (don't know ip & hostname)
+172.30.157.157 # deriabinubuntu.kiev.luxoft.com /Oleksandr Deriabin
+172.30.157.147 # igetmanets.kiev.luxoft.com /Iryna Getmanets
+172.30.157.160 # vklepikov.kiev.luxoft.com /Viacheslav Klepikov
+172.30.157.142 # ypostolov.kiev.luxoft.com /Yurii Postolov
+172.30.157.141 # mnikora‐WorkStation.kiev.luxoft.com /Mykyta Nikora
+--localslots=3
+--localslots_cpp=3

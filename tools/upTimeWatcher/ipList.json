@@ -1,0 +1,137 @@
+[
+  {
+    "status": "Up",
+    "ip": "172.30.157.132",
+    "hostName": "gsavinetskaya-workstation.kiev.luxoft.com",
+    "tProto": "tcp",
+    "pStatus": "closed",
+    "aProto": "distccd",
+    "port": "3632"
+  },
+  {
+    "status":"Up",
+    "ip":"172.30.157.152",
+    "hostName":"tmyza.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"closed",
+    "aProto":"distccd",
+    "port":"3632"
+  },
+  {
+    "status":"Up",
+    "ip":"172.30.157.171",
+    "hostName":"pzhdanov.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"closed",
+    "aProto":"distccd",
+    "port":"3632"
+  },
+  {
+    "status":"Up",
+    "ip":"172.30.157.146",
+    "hostName":"vkushnirenko-811.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"closed",
+    "aProto":"distccd",
+    "port":"3632"
+  },
+  {
+    "status":"Up",
+    "ip":"172.30.157.150",
+    "hostName":"mkorniichuk.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"closed",
+    "aProto":"distccd",
+    "port":"3632"
+  },
+  {
+    "status":"Up",
+    "ip":"172.30.157.156",
+    "hostName":"igapchuk-lws.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"closed",
+    "aProto":"distccd",
+    "port":"3632"
+  },
+  {
+    "status":"Up",
+    "ip":"172.30.157.143",
+    "hostName":"mked.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"closed",
+    "aProto":"distccd",
+    "port":"3632"
+  },
+  {
+    "status":"Up",
+    "ip":"172.30.157.145",
+    "hostName":"ikovalenko.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"closed",
+    "aProto":"distccd",
+    "port":"3632"
+  },
+  {
+    "status":"Up",
+    "ip":"172.30.157.148",
+    "hostName":"iikovalenko-vm.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"filtered",
+    "aProto":"distccd",
+    "port":"3632"
+  },
+  {
+    "status":"Up",
+    "ip":"172.30.157.154",
+    "hostName":"luxoftakutsan.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"closed",
+    "aProto":"distccd",
+    "port":"3632"
+  },
+  {
+    "status":"Up",
+    "ip":"172.30.157.153",
+    "hostName":"oderiabin.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"filtered",
+    "aProto":"distccd",
+    "port":"3632"
+  },
+  {
+    "status":"Up",
+    "ip":"172.30.157.147",
+    "hostName":"igetmanets.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"closed",
+    "aProto":"distccd",
+    "port":"3632"
+  },
+  {
+    "status": "Up",
+    "ip": "172.30.157.141",
+    "hostName": "akalinich.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"closed",
+    "aProto":"distccd",
+    "port":"3632"
+  },
+  {
+    "status":"Up",
+    "ip":"172.30.157.142",
+    "hostName":"ypostolov.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"closed",
+    "aProto":"distccd",
+    "port":"3632"
+  },
+  {
+    "status":"Up",
+    "ip":"172.30.157.144",
+    "hostName":"db-desktop.kiev.luxoft.com",
+    "tProto":"tcp",
+    "pStatus":"open",
+    "aProto":"distccd",
+    "port":"3632"
+  }
+]
